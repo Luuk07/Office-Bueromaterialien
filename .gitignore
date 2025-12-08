@@ -1,0 +1,6 @@
+# Visual Studio temporäre Ordner und Dateien ignorieren
+.vs/
+bin/
+obj/
+*.user
+*.suo
